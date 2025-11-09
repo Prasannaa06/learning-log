@@ -33,4 +33,4 @@ Make sure you have the following installed:
 - Allow users to upload and attach resources (e.g., PDFs, images) to their entries.
 
 ## 👤 Author
-- **[Harsha Hemanth](https://github.com/Harsha-Hemanth)** - Developer & Maintainer
+- **[Sri Laxmi Prasanna](https://github.com/Prasannaa06)** - Developer & Maintainer
